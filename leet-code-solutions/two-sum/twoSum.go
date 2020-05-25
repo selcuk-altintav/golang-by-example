@@ -1,4 +1,15 @@
-// https://leetcode.com/problems/two-sum/
+/**
+ * @author Selçuk Altıntav
+ * @email s.altintav@gmail.com
+ * @create date 2020-05-25 02:02:52
+ * @modify date 2020-05-25 02:02:52
+ * @desc [description]
+ */
+
+/**
+ * Question #1
+ * Link : https://leetcode.com/problems/two-sum/
+ */
 
 package main
 
